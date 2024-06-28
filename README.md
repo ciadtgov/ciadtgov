@@ -1,8 +1,9 @@
 # -ciadotgov
 ### .py / .lua / .cpp coder
 # -current projects
-### tamper v1
-### link: tamper.online
-### discord: discord.gg/tamper
+### swiftplay pc optimizer
+### link: soon
+### discord: discord.gg/swftplay
 ### what is it?
-### an pc tweaker at a very cheap price of 5 euros!
+### an pc tweaker at a very cheap price of 6.99 euros!
+### please support me by joining
