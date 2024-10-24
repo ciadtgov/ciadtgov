@@ -5,7 +5,7 @@
 
 - you can reach me through **admin@swiftplay.xyz**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">discord server</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/SA5KwzSspY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SA5KwzSspY" height="30" width="40" /></a>
 </p>
