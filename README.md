@@ -1,7 +1,7 @@
 <h1 align="center">yo im ciadotgov</h1>
 <h3 align="center">best of the best</h3>
 
-- working on [Ecstacy](https://discord.gg/6fBUU2hChm)
+- working on [nothing atm](blank)
 
 - you can reach me through (you cant)
 
