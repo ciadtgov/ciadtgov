@@ -10,9 +10,9 @@
 
 ---
 
-### 📡 My Discord Server
+### 📡 My Discord Server (does not exist yet)
 <p align="left">
-  <a href="https://discord.gg/6fBUU2hChm" target="_blank">
+  <a href="https://discord.gg/" target="_blank">
     <img src="https://img.shields.io/discord/123456789012345678?label=Join%20Discord&logo=discord&style=for-the-badge&color=5865F2" alt="Discord Server">
   </a>
 </p>
