@@ -1,5 +1,5 @@
-<h1 align="center">yo, i'm ciadotgov</h1>
-<h3 align="center">👑 best of the best | 🛠 building cool shit | 🧠 thinking 3 steps ahead</h3>
+<h1 align="center">ciadotgov</h1>
+<h3 align="center">pmo</h3>
 
 ---
 
