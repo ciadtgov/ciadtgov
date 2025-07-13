@@ -4,9 +4,9 @@
 ---
 
 ### 👤 About Me
-- 🔥 Focused on system-level dev, optimization, and real-world tools  
-- 🧼 Fully self-taught, fully unhinged  
-- 🚫 You can't reach me (on purpose)
+- 🔥 i do shit 
+- 🧼 school sucked didnt teach me anything
+- discord: @ciadotgov
 
 ---
 
