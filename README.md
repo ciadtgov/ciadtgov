@@ -47,18 +47,14 @@
 
 ---
 
-### 🧠 Fun Stuff
-- 🕵️ Running ops from the terminal since forever  
-- 🧬 Always thinking modular  
-- ⚔️ Built for speed, not safety
+### this shit kinda pmo
 
 ---
 
-### 🚀 Projects I'm Proud Of *(soon™)*
-> _Currently working on classified ops — check back later_
+### hi again
 
 ---
 
-### 🧢 Footer
-> _"Code like it’s the last night on Earth."_  
+### the end
+> _"hi."_  
 > &mdash; ciadotgov
